@@ -1,0 +1,87 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: VXElements - Video On Scroll\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-02-03 16:07+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.0; wp-5.6\n"
+"X-Domain: vaax-elements"
+
+#: extensions/video_on_scroll.php:82
+msgid "Distance"
+msgstr ""
+
+#. Description of the plugin
+msgid "Elementor Extension for VideoOnScroll effects"
+msgstr ""
+
+#: extensions/video_on_scroll.php:83
+msgid ""
+"How deep must the page be scrolled for the video to have played 100%. You "
+"can specify a value in pixels or in percent, with percent 100% corresponds "
+"to the height of the actual video element."
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://va.ax/"
+msgstr ""
+
+#: extensions/video_on_scroll.php:62
+msgid "No"
+msgstr ""
+
+#: extensions/video_on_scroll.php:71
+msgid ""
+"Not all videos are suitable for scrubbing. Stuttering will occur with many "
+"video formats. We recommend to use ffmpeg to convert the video into single "
+"generic frames before. You can do this in ffmpeg as follows:\n"
+"\t\t\t\t\t<br><code>ffmpeg -i input.mp4 -g 10 output.mp4</code>"
+msgstr ""
+
+#: extensions/video_on_scroll.php:145
+msgid "Refresh Rate"
+msgstr ""
+
+#: extensions/video_on_scroll.php:112
+msgid "Screen Offset"
+msgstr ""
+
+#: extensions/video_on_scroll.php:134
+msgid "Smoothing Time"
+msgstr ""
+
+#. Author of the plugin
+msgid "VAAX Multimeida Agency"
+msgstr ""
+
+#: extensions/video_on_scroll.php:69
+msgid "Video Format"
+msgstr ""
+
+#: extensions/video_on_scroll.php:43 extensions/video_on_scroll.php:58
+msgid "Video on Scroll"
+msgstr ""
+
+#. Name of the plugin
+msgid "VXElements - Video On Scroll"
+msgstr ""
+
+#: extensions/video_on_scroll.php:113
+msgid ""
+"Where is the screen trigger located? 0% is at the top of the screen, 100% is "
+"at the bottom of the screen, 50% is in the middle."
+msgstr ""
+
+#: extensions/video_on_scroll.php:61
+msgid "Yes"
+msgstr ""
